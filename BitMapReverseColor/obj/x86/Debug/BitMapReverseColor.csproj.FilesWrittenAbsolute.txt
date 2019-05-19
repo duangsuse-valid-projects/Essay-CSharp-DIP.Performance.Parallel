@@ -1,0 +1,6 @@
+/home/DuangSUSE/Projects/BitMapReverseColor/BitMapReverseColor/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/DuangSUSE/Projects/BitMapReverseColor/BitMapReverseColor/obj/x86/Debug/BitMapReverseColor.gtk-gui.gui.stetic
+/home/DuangSUSE/Projects/BitMapReverseColor/BitMapReverseColor/bin/Debug/BitMapReverseColor.exe.mdb
+/home/DuangSUSE/Projects/BitMapReverseColor/BitMapReverseColor/bin/Debug/BitMapReverseColor.exe
+/home/DuangSUSE/Projects/BitMapReverseColor/BitMapReverseColor/obj/x86/Debug/BitMapReverseColor.exe
+/home/DuangSUSE/Projects/BitMapReverseColor/BitMapReverseColor/obj/x86/Debug/BitMapReverseColor.exe.mdb
